@@ -13,10 +13,10 @@ class Graph
 public:
 	void addEdge(const std::string& u, const std::string& v, double weight);
 	void printGraph();
+	std::vector<std::string> djikstra(const std::string& start, const std::string& end);
 
 
 private:
 	std::unordered_map < std::string, std::list<std::pair<std::string, double>>> adjList;
-	std::vector<std::string> djikstra(const std::string& start, const std::string& end);
 };
 
