@@ -132,6 +132,6 @@ See the [LICENSE](./LICENSE) file for details.
 
 Created by **Siddhesh Sule**  
 - Email: siddhesh.sule47@gmail.com  
-- GitHub: [https://github.com/siddheshsule](https://github.com/sidheshsule)
+- GitHub: [https://github.com/siddheshsule](https://github.com/siddheshsule)
 
 Feel free to reach out with questions, suggestions, or feedback!
